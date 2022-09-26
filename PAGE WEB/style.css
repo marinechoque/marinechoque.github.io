@@ -1,0 +1,55 @@
+/*
+sélecteur
+{
+    propeiéte: valeur 
+}
+*/
+
+body{
+    background: linear-gradient();
+    font-family: sans-serif; 
+}
+
+
+h1,h2{
+    color:#ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+h2{
+    border-bottom: 10px solid white;
+    font: 200;
+}
+
+.wrap{
+
+    background-color: rgb(215, 96, 36);
+    width:940px;
+    margin:auto;
+    padding: 24px;
+    border-radius: 12px;
+
+}
+
+.projet{
+
+    background-color: rgb(240, 239, 239);
+    width:1040px;
+    margin: 10px 15px 10px;
+    padding: 34px;
+    border-radius: 12px;
+
+}
+
+.contact{
+
+    width: 140px;
+    background-color: blue;
+    margin-left: 1100px;
+    border-radius: 2px;
+    text-align: center;
+    padding: 18px;
+    
+
+}
